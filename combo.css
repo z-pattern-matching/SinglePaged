@@ -3,3 +3,9 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+pre {
+  white-space: pre-wrap !important;
+  text-align: left;
+  background-color: black;
+}
