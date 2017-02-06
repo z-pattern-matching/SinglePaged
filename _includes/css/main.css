@@ -355,3 +355,9 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+pre {
+  white-space: pre-wrap !important;
+  text-align: left;
+  background-color: black;
+}
