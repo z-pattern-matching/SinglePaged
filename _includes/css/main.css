@@ -28,7 +28,7 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
+code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", background-color: rgb(216, 216, 216); color: #a9160c; }
 
 /* spesifically inline code */
 code, pre {
