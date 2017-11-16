@@ -28,11 +28,12 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", background-color: rgb(216, 216, 216); color: #a9160c; }
+code, pre { font-family: Monaco, Menlo, Consolas, "Courier New"; font-weight: bold; }
 
 /* spesifically inline code */
 code, pre {
-  background: rgba(255,255,255,0.2);
+  background: rgb(216, 216, 216);
+  color: #a9160c;
   display: inline;
   word-wrap: break-word;
 }
